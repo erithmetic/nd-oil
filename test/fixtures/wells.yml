@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  read_at: 2013-04-13
+  oil: 1
+  water: 1
+  gas: 1
+  days_in_operation: 1
+  gas_sold: 1
+
+two:
+  read_at: 2013-04-13
+  oil: 1
+  water: 1
+  gas: 1
+  days_in_operation: 1
+  gas_sold: 1
